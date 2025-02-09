@@ -2,9 +2,6 @@
 
 ![Amazon Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Amazon_logo.svg/1200px-Amazon_logo.svg.png)
 
-## Project Title:
-**Amazon Sales Optimization Using SQL**
-
 ## Project Summary:
 This project focuses on solving 22 advanced business problems related to Amazon sales optimization. By leveraging SQL queries, we aim to uncover valuable insights that can enhance sales performance, improve inventory management, and optimize overall business operations.
 
